@@ -12,8 +12,12 @@ peso -= 2
 
 var sandwich = 1
 
-// peso = peso + sandwich - jugarAlFutbol
+peso += sandwich
 
 var jugarAlFutbol = 3
 
-peso = peso - jugarAlFutbol
+peso -= jugarAlFutbol
+
+var precioDeVino = 233.33
+
+var total = precioDeVino * 3
